@@ -1,0 +1,15 @@
+.header {
+	background-color: #107c00;
+	height: 100px;
+}
+
+.headerText {
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+	padding-top: 20px;
+}
+
+.headerSubText {
+	color: white;
+}
